@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 2239f2a9f06dd6c4f83e5f5de39803cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 371
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7525b78038e5fb4388ef78098357d39
+      internalID: -57218678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 321
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36e776545022041a3eff114ff0e8a2
+      internalID: -848191076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 357
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e23a0937f88344a52717f8899bcd9
+      internalID: 929504226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 321
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8c9c6b88a10f43bf4874b3db01a71
+      internalID: -1462759565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 371
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33c0aca4f080b43b507bdfc7813618
+      internalID: -876015456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 234
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c4a9dba755f5459508c35773a8200
+      internalID: 105589540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 126
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70b774b17c643429262cd9e4cd54d0
+      internalID: 242934036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 126
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226596aab7ff014c8a1f4589e08d0b4
+      internalID: -977625840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 235
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52379c668db8c469a8c80ccb920916
+      internalID: -1685465901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 81
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72945e5eb4fa7e447b0f53daf353bc3b
+      internalID: -1784077916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 37
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcbba6d68f9ce49b52cc25606226ef
+      internalID: -1168657390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 35
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c678327f3086748ac1ee8909c65f29
+      internalID: 258500322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 35
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33016d52185746c43836e41535dd8413
+      internalID: -408871766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 35
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e3fb9b0aaee2245bc7a96f2ed40ff5
+      internalID: -849509640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714f34cde49cd94aaa2f27dd1d85432
+      internalID: 2058546044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 35
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d4cdbd3dcced14a8d93b148f1bc879
+      internalID: -852751607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6fa4e00f09ad645bb5dc6dc0abfe29
+      internalID: 2084475664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd26930fdf4a64fb30935a9f409c62
+      internalID: 1804797201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 35
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c0dd53739ae834a9c94032be3341d6
+      internalID: -240566257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 38
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc337ae76fb9e84eb4418ec78fbc2ee
+      internalID: 1629979967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 37
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a5097f995fa743ad3056690e552f0
+      internalID: 1150816898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376dbfc0ec81b304bb07bde1a646fecb
+      internalID: 198577804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9dcc93e8b13742abaafef7d5aa8e7
+      internalID: 1299795367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 35
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a4e6f13a2ca745b1ad3ad7e64513b
+      internalID: -1075650154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2649ab8f8aff554198d7562131e3ca5
+      internalID: -508668894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 37
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6ad59ab020894e9e5f07c45d28bed
+      internalID: 23696603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19fe654a4c25b41864a52b0042a9e8
+      internalID: -249305899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 35
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1d02882151ca478d1582ab9ac3377
+      internalID: 1474782561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff6db2ef5c3eeb459c72225a8752acb
+      internalID: -483331118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc413e6b7339c1a4286b6161e15b82a1
+      internalID: 454934039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427766f0507bd14cbed70ddc91ec0bc
+      internalID: 1384549344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 37
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd05dadabb2fe4f9f1878ef5a20d81
+      internalID: 706651412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 37
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a6d5aace04984eb9b322331db8562
+      internalID: 1087828560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-open_barrel_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 38
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f788d157bc24f44a8599122a458e96
+      internalID: -616698037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hjm-open_barrel_alpha_9: -1784077916
+      hjm-open_barrel_alpha_7: -977625840
+      hjm-open_barrel_alpha_29: 454934039
+      hjm-open_barrel_alpha_15: -852751607
+      hjm-open_barrel_alpha_22: 1299795367
+      hjm-open_barrel_alpha_1: -848191076
+      hjm-open_barrel_alpha_11: 258500322
+      hjm-open_barrel_alpha_20: 1150816898
+      hjm-open_barrel_alpha_14: 2058546044
+      hjm-open_barrel_alpha_16: 2084475664
+      hjm-open_barrel_alpha_30: 1384549344
+      hjm-open_barrel_alpha_5: 105589540
+      hjm-open_barrel_alpha_18: -240566257
+      hjm-open_barrel_alpha_31: 706651412
+      hjm-open_barrel_alpha_10: -1168657390
+      hjm-open_barrel_alpha_19: 1629979967
+      hjm-open_barrel_alpha_24: -508668894
+      hjm-open_barrel_alpha_23: -1075650154
+      hjm-open_barrel_alpha_0: -57218678
+      hjm-open_barrel_alpha_6: 242934036
+      hjm-open_barrel_alpha_2: 929504226
+      hjm-open_barrel_alpha_32: 1087828560
+      hjm-open_barrel_alpha_8: -1685465901
+      hjm-open_barrel_alpha_21: 198577804
+      hjm-open_barrel_alpha_4: -876015456
+      hjm-open_barrel_alpha_26: -249305899
+      hjm-open_barrel_alpha_13: -849509640
+      hjm-open_barrel_alpha_25: 23696603
+      hjm-open_barrel_alpha_17: 1804797201
+      hjm-open_barrel_alpha_28: -483331118
+      hjm-open_barrel_alpha_33: -616698037
+      hjm-open_barrel_alpha_12: -408871766
+      hjm-open_barrel_alpha_27: 1474782561
+      hjm-open_barrel_alpha_3: -1462759565
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
